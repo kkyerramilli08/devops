@@ -1,2 +1,2 @@
 # devops
-This repository contains projects of individual tools of devops.
+This repository contains projects on individual tools of devops.
